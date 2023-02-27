@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(41, 32, 21);
+    background-color: rgb(0, 0, 0);
     display: flex;
 
 }
@@ -24,7 +24,7 @@ body {
     position: relative;
   }
   p{
-    margin-bottom: 20px;
+    margin-bottom: 2  s0px;
   }
   .modal a {
     text-decoration: none;
